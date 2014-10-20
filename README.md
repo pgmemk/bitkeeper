@@ -13,7 +13,8 @@ Running
 Bitkeeper provides RESTful service with 2 parameters:
 key and val
 if both are specified, value is saved for a key provided, e.g. http://127.0.0.1:8080?key=k1&val=v1
-If only key is specified, then value is returned: e.g. http://127.0.0.1:8080?key=k1
+
+If only the key is specified, then value is returned: e.g. http://127.0.0.1:8080?key=k1
 
 Installation
 ========================
