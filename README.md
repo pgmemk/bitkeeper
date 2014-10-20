@@ -1,9 +1,12 @@
 bitkeeper
 =========
 
-Bitjoe uses Bitkeeper to save business transactions. Bitcoin blockchain is a precious resources and we can only put a hash of the transaction in it. The rest goes to bitkeeper.
+Bitjoe uses Bitkeeper to save business transactions. 
+1. Bitcoin blockchain is a precious resources and we can only put a hash of the transaction in it. 
+2. The body of the transaction bitjoe sends to bitkeeper for keeping.
 
 In this incarnation bitkeeper uses Kademlia DHT (distributed hash table) implementation by http://tomp2p.net/
+Kademlia is a state of the art DHT used by practically all mainstream p2p programs, like bittorrent.
 
 Running
 ========================
