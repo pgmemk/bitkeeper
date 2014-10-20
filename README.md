@@ -32,3 +32,6 @@ Now you can send save value on one bitkeeper server and pick it up on another bi
 `http://127.0.0.1:8080?key=k1&val=v1`
 
 `http://127.0.0.1:8081?key=k1`
+
+
+Learn about Bitkeeper architecture in [Tradle wiki](https://github.com/urbien/Tradle/wiki)
